@@ -42,4 +42,4 @@ ipycanvas>=0.9.1
 # Python: numpy, matplotlib, opencv-headless
 numpy
 matplotlib
-opencv-python-headless
+opencv-python
