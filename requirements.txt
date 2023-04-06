@@ -43,3 +43,4 @@ ipycanvas>=0.9.1
 numpy
 matplotlib
 opencv-python
+pillow
