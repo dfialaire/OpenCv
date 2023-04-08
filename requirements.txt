@@ -46,3 +46,4 @@ matplotlib
 opencv-python
 pillow
 tk
+tk-tools
